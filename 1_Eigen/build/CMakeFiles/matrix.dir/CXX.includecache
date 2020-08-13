@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/peteryuan/learn_slam/1_Eigen/EigenMatrix.cpp
+iostream
+-
+ctime
+-
+eigen3/Eigen/Core
+-
+eigen3/Eigen/Dense
+-
+
